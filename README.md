@@ -5,4 +5,4 @@
 
 # STM32-FC-docs
 
-[3. 전원 공급시 주의사항](./guide/3_PWR%20Supply.md)
+[3. 전원 공급시 주의사항](./guide/3_Power_Supply.md)
